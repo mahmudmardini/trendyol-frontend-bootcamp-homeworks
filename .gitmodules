@@ -1,3 +1,18 @@
 [submodule "week-1-workshop-assignment-team-pokemon"]
 	path = week-1-workshop-assignment-team-pokemon
 	url = https://github.com/mahmudmardini/week-1-workshop-assignment-team-pokemon
+[submodule "week-3-react-mahmud-mardini"]
+	path = week-3-react-mahmud-mardini
+	url = https://github.com/Trendyol-Front-End-Bootcamp/week-3-react-mahmud-mardini
+[submodule "week-4-vue-mahmud-mardini"]
+	path = week-4-vue-mahmud-mardini
+	url = https://github.com/Trendyol-Front-End-Bootcamp/week-4-vue-mahmud-mardini
+[submodule "week-5-testing-mahmud-mardini"]
+	path = week-5-testing-mahmud-mardini
+	url = https://github.com/Trendyol-Front-End-Bootcamp/week-5-testing-mahmud-mardini
+[submodule "week-6-lighthouse-performance-recommendations-mahmud-mardini"]
+	path = week-6-lighthouse-performance-recommendations-mahmud-mardini
+	url = https://github.com/Trendyol-Front-End-Bootcamp/week-6-lighthouse-performance-recommendations-mahmud-mardini
+[submodule "reversed-spider-solitaire-mahmud-mardini"]
+	path = reversed-spider-solitaire-mahmud-mardini
+	url = https://github.com/Trendyol-Front-End-Bootcamp/reversed-spider-solitaire-mahmud-mardini
